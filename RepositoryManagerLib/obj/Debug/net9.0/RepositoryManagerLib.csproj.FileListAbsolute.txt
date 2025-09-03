@@ -1,0 +1,13 @@
+C:\Users\WIN10\Documents\repository_manager\repository_manager_lib\RepositoryManagerLib\bin\Debug\net9.0\RepositoryManagerLib.deps.json
+C:\Users\WIN10\Documents\repository_manager\repository_manager_lib\RepositoryManagerLib\bin\Debug\net9.0\RepositoryManagerLib.dll
+C:\Users\WIN10\Documents\repository_manager\repository_manager_lib\RepositoryManagerLib\bin\Debug\net9.0\RepositoryManagerLib.pdb
+C:\Users\WIN10\Documents\repository_manager\repository_manager_lib\RepositoryManagerLib\obj\Debug\net9.0\RepositoryManagerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10\Documents\repository_manager\repository_manager_lib\RepositoryManagerLib\obj\Debug\net9.0\RepositoryManagerLib.AssemblyInfoInputs.cache
+C:\Users\WIN10\Documents\repository_manager\repository_manager_lib\RepositoryManagerLib\obj\Debug\net9.0\RepositoryManagerLib.AssemblyInfo.cs
+C:\Users\WIN10\Documents\repository_manager\repository_manager_lib\RepositoryManagerLib\obj\Debug\net9.0\RepositoryManagerLib.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Documents\repository_manager\repository_manager_lib\RepositoryManagerLib\obj\Debug\net9.0\RepositoryManagerLib.sourcelink.json
+C:\Users\WIN10\Documents\repository_manager\repository_manager_lib\RepositoryManagerLib\obj\Debug\net9.0\RepositoryManagerLib.dll
+C:\Users\WIN10\Documents\repository_manager\repository_manager_lib\RepositoryManagerLib\obj\Debug\net9.0\refint\RepositoryManagerLib.dll
+C:\Users\WIN10\Documents\repository_manager\repository_manager_lib\RepositoryManagerLib\obj\Debug\net9.0\RepositoryManagerLib.pdb
+C:\Users\WIN10\Documents\repository_manager\repository_manager_lib\RepositoryManagerLib\obj\Debug\net9.0\ref\RepositoryManagerLib.dll
+C:\Users\WIN10\Documents\repository_manager\repository_manager_lib\RepositoryManagerLib\obj\Debug\net9.0\RepositoryManagerLib.csproj.AssemblyReference.cache
